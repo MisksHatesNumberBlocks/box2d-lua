@@ -9,3 +9,7 @@ Hopefully this comes right 😟
  -The thing is that the editor keeps copying the selected word to a random position which IS FREAKING ANNOYING🤬🤬🤬
 so this is why i wrote this file in Google Notes.
 # Coming Soon!!
+
+# X or Y velocity
+Ermm, actually i'm not gonna add x and y velocity because this is not [scratch](https://scratch.mit.edu). 🤓👆
+Also i tried to make velocity with local variables but it didn't work. 🥺
