@@ -13,3 +13,4 @@ so this is why i wrote this file in Google Notes.
 # X or Y velocity
 Ermm, actually i'm not gonna add x and y velocity because this is not [scratch](https://scratch.mit.edu). 🤓👆
 Also i tried to make velocity with local variables but it didn't work. 🥺
+Also don't forget that [castle.xyz](https://castle.xyz) already has x and y velocity 
